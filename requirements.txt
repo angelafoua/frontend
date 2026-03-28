@@ -1,0 +1,5 @@
+npx create-next-app@latest community-platform
+cd community-platform
+npm install @supabase/supabase-js tailwindcss react-icons
+
+npx tailwindcss init -p
